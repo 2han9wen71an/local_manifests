@@ -4,9 +4,9 @@
   <!-- Github remote -->
   <remote  name="github"
            fetch="https://github.com/" />
-  <project name="2han9wen71an/device_xiaomi_polaris" path="device/xiaomi/polaris" remote="github"  revision="pie"/>
-  <project name="2han9wen71an/device_xiaomi_sdm845-common" path="device/xiaomi/sdm845-common" remote="github"  revision="pie"/>
+  <project name="PE-Explorer-Devices/device_xiaomi_polaris" path="device/xiaomi/polaris" remote="github"  revision="Explorer-pie"/>
+  <project name="PE-Explorer-Devices/device_xiaomi_sdm845-common" path="device/xiaomi/sdm845-common" remote="github"  revision="Explorer-pie"/>
+  <project name="PE-Explorer-Devices/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="p9.0"/>
   <project name="ArrowOS-Devices/android_kernel_xiaomi_sdm845" path="kernel/xiaomi/sdm845" remote="github"  revision="arrow-9.x"/>
-  <project name="ArrowOS-Devices/android_vendor_xiaomi_sdm845" path="vendor/xiaomi/polaris" remote="github" revision="arrow-9.x"/>
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github"  revision="lineage-16.0"/>
 </manifest>
